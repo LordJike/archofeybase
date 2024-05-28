@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+  <packageId>Jike.ArchofeyBase</packageId>
+  <name>Archofey Entities [BASE]</name>
+  <author>Jike</author>
+  <description>Parent mod for all archofey mods, contains the codex entries, research tab, and any common items within archofey mods.</description>
+  <supportedVersions>
+  <li>1.5</li>
+</supportedVersions>
+<modDependencies>
+  <li>
+    <packageId>Ludeon.Anomaly</packageId>
+  </li>
+  <li>
+    <packageId>Ludeon.Biotech</packageId>
+  </li>
+  <li>
+    <packageId>Ludeon.Royalty</packageId>
+  </li>
+</modDependencies>
+<modVersion>0.01</modVersion>
+<!-- <url>WIP</url> -->
+
+</ModMetaData>
